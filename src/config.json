@@ -1,0 +1,10 @@
+{
+    "Import": {
+        "Token": "ODAyMTQ4Mjc2NDIxMDAxMjQ2.YArAzA.jJvhlTZLXS6vU-0my1Uh7A67BCQ",
+        "Owners": ["760970208197476372", "644092051838861322"],
+        "MongooseURL": "mongodb+srv://mazee1:maze12345@cluster0.w6u4p.mongodb.net/revoliamod?retryWrites=true&w=majority"
+    },
+    "Guild": {
+        "Prefixes": ["!", "."]
+    }
+}
